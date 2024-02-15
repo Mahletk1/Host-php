@@ -1,0 +1,617 @@
+<head>
+  <meta http-equiv="Content-Language" content="fr">
+  <title>Host-Php.org, hebergement de site internet professionnel</title>
+  <meta name="Description"
+    content="Host-Php.org, hebergement de site internet professionnel vous propose des offres d'hebergement mutualise en php/mysql pour votre site web.">
+  <meta name="Keywords"
+    content="hebergement,hebergement professionnel, hebergement sites, hebergement mutualise, hebergement web, site internet, conception hebergement site, hebergement internet, web hosting, hebergement site web">
+  <meta name="Author" content="MK">
+  <meta name="Identifier-URL" content="http://www.host-php.org">
+  <meta name="Copyright" content="2003">
+  <meta name="Revisit-after" content="14 days">
+  <meta name="Robots" content="all">
+
+
+  <style type="text/css">
+    <!--
+    img {
+      text-decoration: none;
+      border: none;
+    }
+
+    font {
+      font-family: Tahoma;
+      font-size: 11px;
+      text-decoration: none;
+      border: none;
+      color: #80A1B2;
+    }
+
+    a {
+      font-family: Tahoma;
+      font-size: 10px;
+      color: #FF0000;
+      text-decoration: underline;
+      border: none;
+    }
+    -->
+  </style>
+</head>
+
+<body bgcolor="#ffffff" onload="">
+  <form method="POST" action="" name="login">
+
+    <div align="center">
+      <center>
+
+        <table border="0" cellpadding="0" cellspacing="0" width="750">
+          <tr>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="12" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="16" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="37" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="48" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="16" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="15" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="11" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="13" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="48" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="33" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="222" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="113" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="9" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="78" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="36" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="15" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></font>
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="18">
+              <font size="2"><img name="image_r1_c1" src="images/image_r1_c1.gif" width="750" height="5" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="5" colspan="3">
+              <font size="2"><img name="image_r2_c1" src="images/image_r2_c1.gif" width="42" height="182" border="0"
+                  alt=""></font>
+            </td>
+            <td rowspan="3" colspan="6">
+              <font size="2"><img name="image_r2_c4" src="images/image_r2_c4.gif" width="140" height="135" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="9">
+              <font size="2"><img name="image_r2_c10" src="images/image_r2_c10.gif" width="568" height="33" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="33" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2">
+              <font size="2"><img name="image_r3_c10" src="images/image_r3_c10.gif" width="48" height="102" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="2">
+              <font size="2"><img name="image_r3_c11" src="images/image_r3_c11.gif" width="255" height="66" border="0"
+                  alt=""></font>
+            </td>
+            <td rowspan="2" colspan="6">
+              <font size="2"><img name="image_r3_c13" src="images/image_r3_c13.gif" width="265" height="102" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="66" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <font size="2"><img name="image_r4_c11" src="images/image_r4_c11.gif" width="255" height="36" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="36" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2" colspan="3">
+              <font size="2"><img name="image_r5_c4" src="images/image_r5_c4.gif" width="101" height="47" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="7" background="images/image_r5_c7.gif">
+              <center><a href="index.html">
+                  <font style="font-size:11px;color:#80A1B2"><b>Accueil</b></font>
+                </a>
+                - <a href="foire_aux_questions.shtml">
+                  <font style="font-size:11px;color:#80A1B2"><b>FAQ</b></font>
+                </a>
+                <font style="font-size:11px;color:#80A1B2"> - <a href="contact.shtml">
+                    <font style="font-size:11px;color:#80A1B2"><b>Contact</b></font>
+                  </a> - <a href="affiliation.html">
+                    <font style="font-size:11px;color:#80A1B2"><b>Webmasters</b></font>
+                  </a> - <a href="qui_sommes_nous.html">
+                    <font style="font-size:11px;color:#80A1B2"><b>Qui
+                        sommes nous </b> ?<br><br></font>
+                  </a> <a href="index.html">
+                    <font style="font-size: 11px; color: #80A1B2">Host-Php.org</font>
+                  </a> - <font style="font-size: 11px; color: #80A1B2">eXtend LLC 2003</font>
+              </center>
+              </font>
+            </td>
+            <td rowspan="2" colspan="5">
+              <font size="2"><img name="image_r5_c14" src="images/image_r5_c14.gif" width="152" height="47" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="19" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="7">
+              <font size="2"><img name="image_r6_c7" src="images/image_r6_c7.gif" width="455" height="28" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="28" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="4" colspan="2">
+              <font size="2"><img name="image_r7_c1" src="images/image_r7_c1.gif" width="26" height="54" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="9">
+              <font size="2"><img name="image_r7_c3" src="images/image_r7_c3.gif" width="237" height="21" border="0"
+                  alt="Connexion espace membre"></font>
+            </td>
+            <td colspan="5" background="images/image_r7_c12.gif">
+              <font style="font-size:11px;color:#ffffff">
+                <center><b><u>Login</u> :</b> <input type="text" name="T1" size="8"
+                    style="font-size: 8 pt; font-family: Arial; font-weight: bold; border-style: solid; border-width: 1">&nbsp;&nbsp;
+                  <b><u>Mot de passe</u> :</b>
+              </font> <input type="text" name="T2" size="8"
+                style="font-size: 8 pt; font-family: Arial; font-weight: bold; border-style: solid; border-width: 1">&nbsp;&nbsp;
+              <input type="submit" value="Connexion" name="B1" style="font-size: 8 pt">
+      </center>
+      </td>
+      <td rowspan="4" colspan="2">
+        <font size="2"><img name="image_r7_c17" src="images/image_r7_c17.gif" width="29" height="54" border="0" alt="">
+        </font>
+      </td>
+      <td>
+        <font size="2"><img src="images/spacer.gif" width="1" height="21" border="0" alt=""></font>
+      </td>
+      </tr>
+      <tr>
+        <td colspan="14">
+          <font size="2"><img name="image_r8_c3" src="images/image_r8_c3.gif" width="695" height="10" border="0" alt="">
+          </font>
+        </td>
+        <td>
+          <font size="2"><img src="images/spacer.gif" width="1" height="10" border="0" alt=""></font>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2" colspan="5">
+          <font size="2"><img name="image_r9_c3" src="images/image_r9_c3.gif" width="132" height="23" border="0" alt="">
+          </font>
+        </td>
+        <td colspan="7">
+          <font size="2"><img name="image_r9_c8" src="images/image_r9_c8.gif" width="449" height="17" border="0"
+              alt="Plus de 80 clients nous ont d�j� fait confiance ! Pourquoi pas vous ?"></font>
+        </td>
+        <td rowspan="2" colspan="2">
+          <font size="2"><img name="image_r9_c15" src="images/image_r9_c15.gif" width="114" height="23" border="0"
+              alt=""></font>
+        </td>
+        <td>
+          <font size="2"><img src="images/spacer.gif" width="1" height="17" border="0" alt=""></font>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="7">
+          <font size="2"><img name="image_r10_c8" src="images/image_r10_c8.gif" width="449" height="6" border="0"
+              alt=""></font>
+        </td>
+        <td>
+          <font size="2"><img src="images/spacer.gif" width="1" height="6" border="0" alt=""></font>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2"></td>
+        <td colspan="16">
+          <table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="center">
+                <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1"
+                        height="1"></td>
+                    <td bgcolor="#5E7BB7" height="1"><img border="0" src="images/spacer.gif" width="1" height="1"></td>
+                    <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1"
+                        height="1"></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div align="center">
+                        <center>
+                          <table border="0" width="90%" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td width="100%">
+                                <font size="2"><b><u>D�tails du pack
+                                      d�butant</u></b> :</font>
+                                <p>
+                                  <font style="font-size:13px">- <b>50 Mo</b> d'espace disque <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - <b>2 Go</b> de bande passante <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - Fonction Php4 <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - 1 Base de donn�e MySql <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - R�pertoire Cgi-Bin <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)<br>
+                                    </a>- Streaming Real Audio/Vid�o <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - 1 Acc�s FTP <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - 1 Comptes Pop du type 'login@host-php.org'<br>
+                                    - <b>H�bergement en sous-domaine</b> <a
+                                      onclick="window.open('infos.html','_blank','toolbar=0,location=0,directories=0,status=0, scrollbars=1,resizable=0,copyhistory=0,menuBar=0,width=400,height=500,left=50,top=50');return(false)"
+                                      href="hebergement_50_mo.shtml#">(?)</a><br>
+                                    - <b>Pas de publicit�</b></font>
+                                </p>
+                                <p align="center">
+                                  <font size="2" color="#5E7BB7">Nos conditions
+                                    g�n�rale de vente :</font>
+                                </p>
+                                <p align="center">
+                                  <font size="2" color="#5E7BB7">
+                                    <textarea rows="21" name="S1" cols="85"
+                                      style="font-family: Arial; font-size: 8 pt; color: #5E7BB7"> ARTICLE 1 : D�FINITIONS
+Est appel� fournisseur HOST-PHP.ORG
+
+Est appel� client la personne physique ou morale signataire du bon de commande en ligne.
+
+L�Internet est un ensemble de r�seaux interconnect�s, situ�s � travers le monde.
+
+Est appel� identifiant le couple nom d�utilisateur / mot de passe permettant au client de s�identifier sur le r�seau.
+
+Est appel� espace web un espace de stockage allou� par HOST-PHP � chaque client. 
+
+Est commun�ment appel� netiquette l�ensemble des r�gles d�usage des utilisateurs d�Internet, parmi lesquelles : 
+
+-Ne pas envoyer de courriers �lectroniques en masse � des personnes qui n�en ont pas fait la demande (spam).
+-Ne pas poster un message dans un ou plusieurs groupes de discussion, avec un contenu sans rapport avec le th�me de ces groupes.
+-Respecter les droits d�auteurs.
+-Ne pas aller � l�encontre de la RFC1855
+
+ ARTICLE 2 : OBJET
+Le pr�sent contrat a pour objet de d�finir les conditions et les modalit�s selon lesquelles HOST-PHP met � disposition de son client ses produits : Pack Easy, Pack D�butan, Pack Confirm�, Pack Pro.
+L�ensemble de l�offre HOST-PHP se trouve d�taill�e � l�adresse : http://www.host-php.org/. Le bon de commande affich� en ligne fait partie int�grante du pr�sent contrat. Toute commande d�un ou de plusieurs produits HOST-PHP en ligne implique l�acceptation du pr�sent contrat.
+Le pr�sent contrat est souscrit pour une p�riode d' un mois ou 1 an � compter du 1er r�glement relatif � l�achat du produit command�, renouvelable en fonction du plan choisit. Tout d�faut ou retard de paiement de la part du client entra�ne une rupture automatique du pr�sent contrat. HOST-PHP se r�serve le droit de mettre fin au pr�sent contrat � n�importe quel moment et sans pr�avis, sous r�serve de l�envoi d�une lettre recommand�e au client (� l�adresse communiqu�e lors de l�inscription en ligne). Dans le cas d'un non-paiement, d'un manquement aux politiques d'utilisation ou pour toute autre raison � la discr�tion d'HOST-PHP, HOST-PHP aura le droit, sans aucun avis et imm�diatement, de suspendre le compte du client en lui remboursant la balance non-utilis�e de son paiement. En cas de violation des politiques d'utilisation du service, le compte du client pourra �tre suspendu sans remboursement.  
+
+ ARTICLE 3 : LES PRODUITS
+3.1 - L'identifiant : 
+Suite � la commande en ligne et � la validation du paiement du produit, le client re�oit un identifiant � l�adresse �lectronique figurant dans son bon de commande. Cet identifiant permet d�administrer les produits HOST-PHP command�s par le client ( acc�s au serveur FTP, acc�s au tableau de bord ... ) 
+3.2 - Espace Web : 
+HOST-PHP propose au client l�h�bergement sur ses serveurs DNS d�un nom de domaine et sur ses serveurs WEB d�un espace disque associ�, moyennant le paiement d�une location dont le co�t est fonction du produit choisi par le client. Le client pourra choisir son nom de domaine ( adresse Web ), dans la mesure o� celui-ci est disponible et dans le respect de la charte de nommage suivant l�extension choisie. Le client dispose d�une totale libert� quant au contenu de son espace web, dans la mesure o� il est conforme aux lois et r�glements en vigueur en France et dans son pays d�origine. Il est notemment exclu de publier toute forme de contenu associ� directement ou indirectement : 
+
+-Des programmes pirat�s ( MP3, cracks ... ) 
+-Les sites � caract�re raciste ou profane
+HOST-PHP se r�serve le droit, � tout moment et sans pr�avis, de mettre hors-ligne tout contenu qu�il estimerait non conforme aux lois fran�aises, internationales ou � la netiquette.
+
+3.3 - Adresse email : 
+HOST-PHP met � la disposition du client des adresses email, des alias email et des redirections d�emails dont le nombre est d�fini dans la formule choisie par le client. Le client pourra choisir ses adresses dans la mesure o� elles sont disponibles et accept�es par HOST-PHP. HOST-PHP se r�serve le droit, � tout moment et sans pr�avis de supprimer une ou l�ensemble des adresses emails, alias et redirection, s�il estime que l�usage qui en est fait n�est pas conforme � la netiquette. Certaine adresses techniques sont r�serv�es.
+
+ ARTICLE 4 : RESPONSABILIT� DU CLIENT 
+Le client s'engage � fournir des informations justes et sinc�res lors de la r�servation de son ou ses noms de domaine. Il s'engage � pr�venir HOST-PHP de tout changement concernant les donn�es fournies et serait seul responsable des �ventuels dysfonctionnements qui pourraient r�sulter d'informations erron�es.
+Le client assume seul l'enti�re responsabilit� des �ventuelles atteintes � la propri�t� intellectuelle ou industrielle de tiers, � l'ordre public et aux bonnes moeurs et de tout autre litige concernant le ou les noms de domaines achet�s via HOST-PHP.
+Le client est seul responsable du choix du ou des noms de domaine achet�s. En aucun cas HOST-PHP ne saurait �tre tenu responsable de recours concernant un nom de domaine command� par HOST-PHP. 
+Le client doit maintenir une adresse email et une adresse postale valides.
+Le client s�engage � ne pas tenter de p�n�trer les syst�mes informatiques d�HOST-PHP ou tenter de le faire. 
+4.1 - Limitation des ressources : 
+HOST-PHP fournit des packs d'h�bergement qui permettent l'utilisation de scripts CGI,PHP et d'autres programmes ex�cutables. Ces scripts utilisent beaucoup plus de ressources syst�me que de simples pages php, il y a donc certaines restrictions dans l'utilisation de ces fonctionnalit�s. Les scripts doivent utiliser des ressources syst�mes acceptables. Les scripts qui utilisent un tr�s grand nombre de cycles de CPU et un tr�s grand espace m�moire RAM devront �tre suspendus ou des frais additionnels pourront s'appliquer. HOST-PHP fera son possible pour aviser les clients qui utilisent des scripts utilisant un trop grand pourcentage de ressources syst�me avant de suspendre ceux-ci. Par contre, si les scripts causent des probl�mes aux autres clients ou que ceux-ci prennent beaucoup trop de ressources ils pourront �tre stopp�s sans pr�avis. 
+Les scripts ne doivent en aucun cas interagir avec la configuration du serveur ou le mat�riel. L'ex�cution de scripts de ce genre pourra entra�ner l'annulation imm�diate du compte client sans remboursement. 
+4.2 - Utilisation de PHP/MySQL : 
+Le client est averti que l'utilisation abusive (ou reposant sur une programmation incorrecte) de MySQL et PHP (scripts en boucle, connexion persistante, etc.) peuvent �tre de nature � rendre incompatible le fonctionnement du site sur un serveur mutualis�, et exposer le site concern� a une suspension sans pr�avis afin de garantir une qualit� de service acceptable � l'ensemble des clients du serveur. 
+4.3 - Transfert de noms de domaine : 
+Par transfert d'un nom de domaine, on n'entendra non pas le transfert de la propri�t� effective du droit d'usage, mais le transfert technique de prestataire (changement de DNS). Le client affirme �tre propri�taire de ce droit d'usage lorsqu'il demande le transfert d'un nom de domaine ou bien �tre mandat� par le propri�taire susnomm�. HOST-PHP effectuera les formalit�s n�cessaires ou guidera le client dans l'accomplissement de ces formalit�s. N�anmoins, le client d�clare avoir �t� averti que seule la personne nomm�e comme contact administratif pour ce domaine peut valider ce transfert. HOST-PHP ne saurait �tre tenu pour responsable de l'impossibilit� de transf�rer ce nom de domaine ou des d�lais en r�sultant, cette impossibilit� n'invalidant pas syst�matiquement le contrat d'h�bergement. HOST-PHP n'est donc tenu � cet effet que d'une obligation de moyens. 
+4.4 - Droit des marques : 
+Les noms de domaines enregistr�s par le client sont de son enti�re responsabilit�.
+Le client s�engage � respecter la l�gislation en vigueur concernant le droit des marques. HOST-PHP rappelle au client que la contrefa�on de marque est sanctionn�e p�nalement. Il s�agit en effet d�un d�lit p�nal. Les peines qui peuvent �tre prononc�es sont des amendes, voire des peines d�emprisonnement, et des fermetures d��tablissement. 
+HOST-PHP ne pourra �tre tenu responsable du non-respect de la l�gislation par le client et lui rappelle qu�en cas de poursuites civiles ou p�nales � son encontre, HOST-PHP pourra suspendre l�utilisation de son nom de domaine � la suite d�une injonction effectu�e par une autorit� judiciaire.
+
+ ARTICLE 5 : RESPONSABILIT� D�HOST-PHP 
+HOST-PHP s'engage � tout mettre en oeuvre pour proc�der � l'enregistrement/transfert/renouvellement des noms de domaine apr�s validation du r�glement de la commande correspondante. Il s'agit toutefois d'une obligation de moyen et en aucun cas une obligation de r�sultat. 
+5.1 - Contenu : 
+HOST-PHP n�exerce pas de contr�le sur le contenu �mis par le client, que ce soit � travers son espace web ou les courriers qu�il serait amen� � envoyer. En aucun cas HOST-PHP ne saurait voir sa responsabilit� engag�e � la suite de toute action ou recours de tiers, notamment du fait: 
+
+-D�informations, de sons, d�images, de textes et de documents multim�dia contraires aux l�gislations et r�glementations en vigueur, contenus et/ou diffus�s sur son espace web par le client. 
+-De la violation des droits de propri�t� intellectuelle relatifs aux oeuvres contenues ou diffus�es, en int�gralit� ou partiellement sur l�espace web du client. 
+
+5.2 - Accessibilit� : 
+Du fait des caract�ristiques et limites de l�Internet, que le client d�clare conna�tre, HOST-PHP ne peut en aucune mani�re �tre tenu responsable des vitesses d�acc�s depuis d�autres sites, dans le monde ou de ralentissements, des difficult�s d�acc�s au site du client. HOST-PHP ne peut pas non plus �tre tenu responsable du non-acheminement de courriers �lectroniques, articles de forum de discussion, du fait des m�mes limitations et caract�ristiques de l�Internet. HOST-PHP se r�serve le droit d�interrompre temporairement l�accessibilit� � ses services pour des raisons de maintenance et/ou d�am�lioration sans droit � indemnit�s. Cependant, HOST-PHP s�engage � mettre en oeuvre tous les moyens dont il dispose pour minimiser ce type d�interruption. 
+5.3 - S�curit� : 
+La responsabilit� d�HOST-PHP ne saurait �tre engag�e en cas d�introduction malveillante sur l�espace web du client ou pour un piratage des boites aux lettres du client et ce, malgr� toutes les mesures de s�curit� prises par HOST-PHP. 
+5.4 - D�ni de garanties : 
+Le service d�HOST-PHP est fourni sur une base de disponibilit� . HOST-PHP d�ment sp�cifiquement n�importe quelle autre garantie, y compris n�importe quelle garantie de valeur marchande ou de forme physique pour un but particulier. En aucun cas HOST-PHP ne sera responsable des dommages cons�cutifs, indirects, sp�ciaux ou fortuits. M�me si HOST-PHP a �t� inform� par le client de la possibilit� d�une telle perte ou dommages potentiels. Si le service d�HOST-PHP au client �tait perturb�, ou en d�faut de fonctionnement pour toutes raisons, HOST-PHP est non responsable pour la perte de revenus du � une interruption de service. 
+5.5 - Force majeure : 
+HOST-PHP ne sera pas tenu pour responsable pour tout retard ou inex�cution, lorsque la cause du retard ou de l�inex�cution serait due � la survenance d�un cas de force majeure habituellement reconnu par la jurisprudence. Le cas de force majeure suspend les obligations n�es du pr�sent contrat pendant toute la dur�e de son existence. Cependant si le cas de force majeure avait une dur�e d�existence sup�rieure � 30 jours cons�cutifs, il ouvrirait droit � la r�siliation de plein droit du pr�sent contrat par l�une ou l�autre des parties huit jours apr�s l�envoi d�une lettre recommand�e avec avis de r�ception notifiant cette d�cision. 
+5.6 - Indemnit� : 
+Le client convient de d�fendre, garantir et tenir le fournisseur innocent contre toute perte, dommage ou r�clamation, (y compris mandataire honoraire) reli�s � l�usage de ce service fournit par le fournisseur au client sous cet accord, y compris mais non limit� � : fausse publicit�, responsabilit� r�clam�e pour produit ou service vendu par le client, "copyright" ou marque d�pos�e, interruption ou d�faut du fonctionnement du service ou pour tout contenu soumis par le client.
+
+ ARTICLE 6 : R�SILIATION 
+Tout d�faut ou retard de paiement de la part du client entra�ne une rupture automatique du pr�sent contrat. Le client peut r�silier son abonnement avant le terme en le signifiant � HOST-PHP par email. Cette r�siliation n'entra�ne aucun remboursement.
+Si vous ne souhaitez pas renouveler votre contrat, il suffit de ne pas r�pondre � nos relances.
+
+ ARTICLE 7 : CONDITIONS PARTICULI�RES 
+En cas de commande de nom de domaine par HOST-PHP pour le client lors d'un pack, HOST-PHP sera inscrit comme contact technique par d�faut (sauf demande expresse de la part du client). Le propri�taire du nom de domaine est toujours le contact administratif. En cas de transfert, le client s�engage � inscrire HOST-PHP comme contact technique dans les informations du nom de domaine. Faute de quoi, HOST-PHP ne pourrait �tre tenu responsable de la non mise � jour des informations n�cessaires au bon fonctionnement dudit nom de domaine. Ces droits seront restitu�s � la fin du pr�sent contrat.
+
+ ARTICLE 8 : ATTRIBUTION DE COMP�TENCE 
+Les prix des loyers et prestations propos�s sont ceux mentionn�s sur le bon de commande. Ils s�entendent toutes taxes comprises ( TTC ) et sont payables d�avance en euros pour une p�riode mensuelle ou annuelle selon l'offre choisie. HOST-PHP pourra modifier ses prix � tout moment sans pr�avis. Le prix des prestations pay�es d�avance est garanti pour la p�riode concern�e. HOST-PHP se r�serve le droit de r�percuter sans d�lai toute nouvelle taxe ou toute augmentation du taux des taxes existantes.</textarea>
+                                  </font>
+                                </p>
+                                <p align="center"><b>
+                                    <font style="font-size: 13px">Offre sans engagement au
+                                      mois : 1.68 �/Mois via micro-paiement Allopass.</font>
+                                  </b>
+                                <p align="center">
+  </form>
+
+  <head>
+    <meta content="Compacteur HTML - www.info-concept.com" name="CompactageWeb">
+    <style type="text/css">
+      <!--
+      .txt1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #003366
+      }
+
+      .txt2 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        color: #993300;
+        font-weight: bold
+      }
+      -->
+    </style>
+  </head>
+  <table width="457" border="0" cellspacing="0" cellpadding="1" align="center" bgcolor="#000000">
+    <tr>
+      <td>
+        <table width="455" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+          <tr>
+            <td valign="top" height="34"><img src="images/pays_03.gif" width="122" height="71"><img
+                src="images/pays_04.gif" width="333" height="71"></td>
+          </tr>
+          <tr>
+            <td>
+              <table width="455" border="0" cellspacing="0" cellpadding="3">
+                <tr>
+                  <td class="txt1"> <img src="images/pays_08.gif" width="79" height="66" align="right">L'acc&eacute;s
+                    &agrave; ce document n&eacute;cessite<span class="txt2"> 1 </span>code(s)
+                    d'acc&egrave;s. <br> Cliquez sur le drapeau du pays dans lequel vous vous trouvez
+                    et nous vous indiquerons le num&eacute;ro de t&eacute;l&eacute;phone
+                    que vous devez appeler pour obtenir ce(s) code(s) </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table width="375" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_10.gif" width="40" height="34"
+                              onclick="window.open('popupq2=1.html','numero','width=379,height=290')" border="0"
+                              alt="france"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_12.gif" width="40" height="34"
+                              onclick="window.open('popupq2=4.html','numero','width=379,height=290')" border="0"
+                              alt="belgique"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_14.gif" width="40" height="34"
+                              onclick="window.open('popupq2=8.html','numero','width=379,height=290')" border="0"
+                              alt="suisse"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_18.gif" width="40" height="34"
+                              onclick="window.open('popupq2=2.html','numero','width=379,height=290')" border="0"
+                              alt="allemagne"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_16.gif" width="40" height="34"
+                              onclick="window.open('popupq2=9.html','numero','width=379,height=290')" border="0"
+                              alt="royaume-uni"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_20.gif" width="40" height="34"
+                              onclick="window.open('popupq2=5.html','numero','width=379,height=290')" border="0"
+                              alt="espagne"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_28.gif" width="40" height="34"
+                              onclick="window.open('popupq2=6.html','numero','width=379,height=290')" border="0"
+                              alt="italie"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_26.gif" width="40" height="34"
+                              onclick="window.open('popupq2=7.html','numero','width=379,height=290')" border="0"
+                              alt="luxembourg"></a></td>
+                        <td><a href="hebergement_50_mo.shtml#"><img src="images/pays_24.gif" width="40" height="34"
+                              onclick="window.open('popupq2=3.html','numero','width=379,height=290')" border="0"
+                              alt="autriche"></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="center"><a href="hebergement_50_mo.shtml#"><img
+                              src="images/pays_tunisie.gif" width="40" height="34"
+                              onclick="window.open('popupq2=12.html','numero','width=379,height=290')" border="0"
+                              alt="Tunisie"></a></td>
+                        <td align="center"><a href="hebergement_50_mo.shtml#"><img src="images/pays_maroc.gif"
+                              width="40" height="34"
+                              onclick="window.open('popupq2=12.html','numero','width=379,height=290')" border="0"
+                              alt="Maroc"></a></td>
+                        <td align="center"><a href="hebergement_50_mo.shtml#"></td>
+                        <td align="center"><a href="hebergement_50_mo.shtml#"><img src="images/pays_algerie.gif"
+                              width="40" height="34"
+                              onclick="window.open('popupq2=12.html','numero','width=379,height=290')" border="0"
+                              alt="Algerie"></a></td>
+                        <td colspan="3" align="center"><a href="hebergement_50_mo.shtml#"><img src="images/africa.gif"
+                              width="40" height="34"
+                              onclick="window.open('popupq2=12.html','numero','width=379,height=290')" border="0"
+                              alt="Maroc"></a></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <form action="" method="GET" name="MP_Form"><input type="hidden" name="documentId" value="1232"><input
+                    type="hidden" name="MP_ASSOC" value="">
+                  <tr>
+                    <td class="txt1" align="center">Une fois que vous avez obtenu
+                      le (ou les) code, saisissez le ici et validez.</td>
+                  </tr>
+                  <tr>
+                    <td align="center" class="txt1"> Code 1 : <input type="textbox" name="ticket"></td>
+                  </tr>
+                  <tr>
+                    <td align="center"><input type="submit" name="Submit" onclick="return false;" value="valider"
+                        id="Submit1"></td>
+                  </tr>
+                </form>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <script language="javascript" src=""></script>
+  </table>
+  <br>
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="100%"></td>
+    </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+  </center>
+  </div>
+  </td>
+  </tr>
+  <tr>
+    <td bgcolor="#5E7BB7" height="1"><img border="0" src="images/spacer.gif" width="1" height="1"></td>
+  </tr>
+  </table>
+  </td>
+  <td width="30%" valign="top">
+    <div align="center">
+      <center>
+        <table border="0" width="90%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1" height="1">
+            </td>
+            <td bgcolor="#5E7BB7" width="99%"><img border="0" src="images/spacer.gif" width="1" height="1"></td>
+            <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1" height="1">
+            </td>
+          </tr>
+          <tr>
+            <td width="99%">
+              <div align="center">
+                <center>
+                  <table border="0" width="90%" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="100%"><b>
+                          <font>
+                            &gt; </font><a href="hebergement_50_mo.shtml">
+                            <font>Pack D�butant 50 Mo</font>
+                          </a>
+                          <font><br>
+                            &gt; <a href="hebergement_100_mo.shtml">
+                              <font>Pack Confirm� 100 Mo
+                            </a><br>
+                            &gt; <a href="hebergement_150_mo.shtml">
+                              <font>Pack Pro 150 Mo
+                            </a><br>
+                            <br>
+                          </font>
+                          </font>
+                      </td>
+                    </tr>
+                  </table>
+                </center>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td bgcolor="#5E7BB7" height="1" width="99%"><img border="0" src="images/spacer.gif" width="1" height="1">
+            </td>
+          </tr>
+        </table>
+    </div>
+    </center>
+  </td>
+  </tr>
+  </table>
+  </td>
+  <td rowspan="2" colspan="2"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;
+
+    </td>
+  </tr>
+
+
+  </table>
+  </center>
+  </div>
+
+  <p align="center">
+    <center>
+      <font style="font-size:11px;color:#80A1B2"><a href="index.html">
+          <font style="font-size: 11px; color: #80A1B2">Host-Php.org</font>
+        </a>
+        - <font style="font-size: 11px; color: #80A1B2">eXtend LLC 2003</font>
+    </center>
+    </font>
+  </p>
+
+</body>

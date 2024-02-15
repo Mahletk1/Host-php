@@ -1,0 +1,431 @@
+<head>
+
+  <meta http-equiv="Content-Language" content="fr">
+  <title>Host-Php.org, hebergement de site internet professionnel</title>
+  <meta name="Description"
+    content="Host-Php.org, hebergement de site internet professionnel vous propose des offres d'hebergement mutualise en php/mysql pour votre site web.">
+  <meta name="Keywords"
+    content="hebergement,hebergement professionnel, hebergement sites, hebergement mutualise, hebergement web, site internet, conception hebergement site, hebergement internet, web hosting, hebergement site web">
+  <meta name="Author" content="MK">
+  <meta name="Identifier-URL" content="http://www.host-php.org">
+  <meta name="Copyright" content="2003">
+  <meta name="Revisit-after" content="14 days">
+  <meta name="Robots" content="all">
+
+
+  <style type="text/css">
+    <!--
+    img {
+      text-decoration: none;
+      border: none;
+    }
+
+    font {
+      font-family: Tahoma;
+      font-size: 11px;
+      text-decoration: none;
+      border: none;
+      color: #80A1B2;
+    }
+
+    a {
+      font-family: Tahoma;
+      font-size: 10px;
+      color: #FF0000;
+      text-decoration: underline;
+      border: none;
+    }
+    -->
+  </style>
+</head>
+
+<body bgcolor="#ffffff" onload="">
+  <form method="POST" action="">
+
+    <div align="center">
+      <center>
+
+        <table border="0" cellpadding="0" cellspacing="0" width="750">
+          <tr>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="12" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="16" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="37" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="48" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="16" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="15" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="11" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="13" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="48" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="33" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="222" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="113" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="9" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="78" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="36" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="15" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></font>
+            </td>
+          </tr>
+
+          <tr>
+            <td colspan="18">
+              <font size="2"><img name="image_r1_c1" src="images/image_r1_c1.gif" width="750" height="5" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="5" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="5" colspan="3">
+              <font size="2"><img name="image_r2_c1" src="images/image_r2_c1.gif" width="42" height="182" border="0"
+                  alt=""></font>
+            </td>
+            <td rowspan="3" colspan="6">
+              <font size="2"><img name="image_r2_c4" src="images/image_r2_c4.gif" width="140" height="135" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="9">
+              <font size="2"><img name="image_r2_c10" src="images/image_r2_c10.gif" width="568" height="33" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="33" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2">
+              <font size="2"><img name="image_r3_c10" src="images/image_r3_c10.gif" width="48" height="102" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="2">
+              <font size="2"><img name="image_r3_c11" src="images/image_r3_c11.gif" width="255" height="66" border="0"
+                  alt=""></font>
+            </td>
+            <td rowspan="2" colspan="6">
+              <font size="2"><img name="image_r3_c13" src="images/image_r3_c13.gif" width="265" height="102" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="66" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <font size="2"><img name="image_r4_c11" src="images/image_r4_c11.gif" width="255" height="36" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="36" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2" colspan="3">
+              <font size="2"><img name="image_r5_c4" src="images/image_r5_c4.gif" width="101" height="47" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="7" background="images/image_r5_c7.gif">
+              <center><a href="index.html">
+                  <font style="font-size:11px;color:#80A1B2"><b>Accueil</b></font>
+                </a>
+                -
+                <a href="foire_aux_questions.shtml">
+                  <font style="font-size:11px;color:#80A1B2"><b>FAQ</b></font>
+                </a>
+                <font style="font-size:11px;color:#80A1B2"> - <a href="contact.shtml">
+                    <font style="font-size:11px;color:#80A1B2"><b>Contact</b></font>
+                  </a> - <a href="affiliation.html">
+                    <font style="font-size:11px;color:#80A1B2"><b>Webmasters</b></font>
+                  </a> - <a href="qui_sommes_nous.html">
+                    <font style="font-size:11px;color:#80A1B2"><b>Qui
+                        sommes nous ? </b> </font>
+                  </a>
+              </center>
+              </font>
+            </td>
+            <td rowspan="2" colspan="5">
+              <font size="2"><img name="image_r5_c14" src="images/image_r5_c14.gif" width="152" height="47" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="19" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="7">
+              <font size="2"><img name="image_r6_c7" src="images/image_r6_c7.gif" width="455" height="28" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="28" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="4" colspan="2">
+              <font size="2"><img name="image_r7_c1" src="images/image_r7_c1.gif" width="26" height="54" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="9" bgcolor="#5E7BB7">&nbsp;</td>
+            <td colspan="5" background="images/image_r7_c12.gif">
+              &nbsp;
+            </td>
+            <td rowspan="4" colspan="2">
+              <font size="2"><img name="image_r7_c17" src="images/image_r7_c17.gif" width="29" height="54" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="21" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="14">
+              <font size="2"><img name="image_r8_c3" src="images/image_r8_c3.gif" width="695" height="10" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="10" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2" colspan="5">
+              <font size="2"><img name="image_r9_c3" src="images/image_r9_c3.gif" width="132" height="23" border="0"
+                  alt=""></font>
+            </td>
+            <td colspan="7">
+              <font size="2"><img name="image_r9_c8" src="images/image_r9_c8.gif" width="449" height="17" border="0"
+                  alt="Plus de 80 clients nous ont d�j� fait confiance ! Pourquoi pas vous ?"></font>
+            </td>
+            <td rowspan="2" colspan="2">
+              <font size="2"><img name="image_r9_c15" src="images/image_r9_c15.gif" width="114" height="23" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="17" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="7">
+              <font size="2"><img name="image_r10_c8" src="images/image_r10_c8.gif" width="449" height="6" border="0"
+                  alt=""></font>
+            </td>
+            <td>
+              <font size="2"><img src="images/spacer.gif" width="1" height="6" border="0" alt=""></font>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2"></td>
+            <td colspan="16">
+              <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" valign="top">
+                    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1"
+                            height="1"></td>
+                        <td bgcolor="#5E7BB7" height="1"><img border="0" src="images/spacer.gif" width="1" height="1">
+                        </td>
+                        <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1"
+                            height="1"></td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <div align="center">
+                            <center>
+                              <table border="0" width="90%" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="100%">
+                                    <p align="center">
+                            </center>
+      </center>
+      <br>
+      <p align="center"><u>
+          <font size="2"><b>Vous souhaitez nous contacter ?</b></font>
+        </u></p>
+      <p align="center"><b>
+          <font size="2">Pour cela 2 possibilit�s !</font>
+        </b>
+      <p>
+        <font size="1"><b>Si vous avez un probl�me technique concernant
+            votre h�bergement, nous vous conseillons de passer par le forum.
+            Cliquez ici.</b></font>
+      <p>
+        <font size="1"><b>Pour tout autre probl�me,
+            remplissez le formulaire !</b></font><br>
+      <form method="POST" action="contact.shtml" onsubmit="" webbot-action="--WEBBOT-SELF--">
+        <p align="center"><select size="1" name="destinataire"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; border-style: solid; border-width: 1">
+            <option selected>S�lectionnez le destinataire</option>
+            <option value="1">Mohamed (Webmaster)</option>
+            <option value="2">Mathieu (Co-Webmaster)</option>
+          </select>
+          <font size="2"><b>*</b></font>
+        </p>
+        <p align="center"><input type="text" name="sujet" onfocus="this.value=''" size="64"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; text-align: center; color: #5E7BB7; border-style: solid; border-width: 1"
+            value="Entrez ici le sujet de l'email">
+          <font size="2"><b>*</b></font>
+        </p>
+        <p align="center"><input type="text" name="uremail" onfocus="this.value=''" size="64"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; text-align: center; color: #5E7BB7; border-style: solid; border-width: 1"
+            value="Entrez votre email">
+          <font size="2"><b>*</b></font>
+        </p>
+        <p align="center"><textarea rows="7" name="message" onfocus="this.value=''" cols="61"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; text-align: center; color: #5E7BB7; border-style: solid; border-width: 1">Entrez ici votre message</textarea>
+          <font size="2"><b>*</b></font>
+        </p>
+        <p align="center">
+          <font size="2"><b>Si vous �tes membre, merci de
+              remplir les champs suivants :</b></font>
+        </p>
+        <p align="center"><input type="text" name="login" onfocus="this.value=''" size="15"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; text-align: center; color: #5E7BB7; border-style: dotted; border-width: 1"
+            value="Login">&nbsp;&nbsp;
+          <input type="text" name="passwd" onfocus="this.value=''" size="15"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; text-align: center; color: #5E7BB7; border-style: dotted; border-width: 1"
+            value="Mot de passe">
+          <select size="1" name="pack"
+            style="font-family: Arial; font-size: 8 pt; color: #5E7BB7; font-weight: bold; border-style: dotted; border-width: 1">
+            <option selected>Votre Pack</option>
+            <option value="Pack D�butant">Pack D�butant</option>
+            <option value="Pack Confirm�">Pack Confirm�</option>
+            <option value="Pack Pro">Pack Pro</option>
+            <option value="Pack 200 Mo">Pack 200 Mo</option>
+          </select>
+        </p>
+        <p align="center">
+          <font size="2"><b>* Champs obligatoires</b></font>
+        </p>
+        <p align="center"><input type="submit" onclick="return false;" value="Envoyer le message" name="B1"
+            style="font-size: 8 pt; font-family: Arial; font-weight: bold; color: #FFFFFF; background-color: #80A1B2; border-style: solid; border-width: 1">
+        </p>
+      </form>
+
+      </td>
+      </tr>
+      </table>
+    </div>
+    </td>
+    </tr>
+    <center>
+
+      <tr>
+        <td bgcolor="#5E7BB7" height="1"><img border="0" src="images/spacer.gif" width="1" height="1"></td>
+      </tr>
+      </table>
+    </center>
+    </td>
+    <td width="30%" valign="top">
+      <div align="center">
+        <center>
+          <table border="0" width="90%" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1" height="1">
+              </td>
+              <td bgcolor="#5E7BB7" width="99%"><img border="0" src="images/spacer.gif" width="1" height="1"></td>
+              <td width="1" rowspan="3" bgcolor="#5E7BB7"><img border="0" src="images/spacer.gif" width="1" height="1">
+              </td>
+            </tr>
+            <tr>
+              <td width="99%">
+                <div align="center">
+                  <center>
+                    <table border="0" width="90%" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="100%"><b>
+                            <font size="2">
+                              &gt;</font> <a href="hebergement_50_mo.shtml">
+                              <font>Pack D�butant 50 Mo
+                            </a><br>
+                            &gt; <a href="hebergement_100_mo.shtml">
+                              <font>Pack Confirm� 100 Mo
+                            </a><br>
+                            &gt; <a href="hebergement_150_mo.shtml">
+                              <font>Pack Pro 150 Mo
+                            </a><br>
+                            <br>
+                            </font>
+                            </font>
+                        </td>
+                      </tr>
+                    </table>
+                  </center>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#5E7BB7" height="1" width="99%"><img border="0" src="images/spacer.gif" width="1" height="1">
+              </td>
+            </tr>
+          </table>
+          &nbsp;
+
+      </div>
+      </center>
+    </td>
+    </tr>
+    </table>
+    </td>
+    <td rowspan="2" colspan="2"></td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+    </tr>
+
+
+    </table>
+    <input type="hidden" name="validation" value="vrai">
+  </form>
+  </div>
+
+  <p align="center">
+    <center>
+      <font style="font-size:11px;color:#80A1B2"><a href="index.html">
+          <font style="font-size: 11px; color: #80A1B2">Host-Php.org</font>
+        </a>
+        - <font style="font-size: 11px; color: #80A1B2">eXtend LLC 2003</font>
+    </center>
+    </font>
+  </p>
+
+</body>
